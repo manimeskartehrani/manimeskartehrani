@@ -45,7 +45,7 @@
 ###
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<h2> Connect with me </h2>
 <a href = 'https://www.github.com/https://github.com/manimeskartehrani'> </a> 
 
 
