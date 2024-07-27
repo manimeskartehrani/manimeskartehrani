@@ -1,6 +1,4 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
-</div>
+
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
@@ -10,10 +8,7 @@
 <div size='20px'> Hi! My name is Mani Meskartehrani. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
+<h2> About Me </h2>
 
 - 🔭 I’m currently working on E-commerce website
 
@@ -51,7 +46,9 @@
 
 
 <h2> My GitHub Stats  </h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manimeskartehrani)](https://github.com/anuraghazra/github-readme-stats)
+[![Mani's GitHub stats]
+
+(https://github-readme-stats.vercel.app/api?username=manimeskartehrani)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://metrics.lecoq.io/https://github.com/manimeskartehrani?template=classic&config.timezone=America%2FToronto)
 
