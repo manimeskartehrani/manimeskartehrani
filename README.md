@@ -49,15 +49,13 @@
 <a href = 'https://www.github.com/https://github.com/manimeskartehrani'> </a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@manimeskartehrani&compact=True"/>
-</a>
+<h2> Stuff I worked on last week  </h2>
+
 <br>
 
 
 <h2> My GitHub Stats  </h2>
-[![Mani's GitHub stats]
+[Mani's GitHub stats]
 
 <!--START_SECTION:waka-->
 
@@ -67,12 +65,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=@manimeskartehrani)&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-</picture>
+
 
 
 
