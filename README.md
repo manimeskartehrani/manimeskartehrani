@@ -5,7 +5,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/manimeskartehrani.https://github.com/manimeskartehrani)
 
 </p>
 <div size='20px'> Hi! My name is Mani Meskartehrani. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -24,7 +23,7 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2> Skills </h2>
 <a href= https://github.com/https://github.com/manimeskartehrani?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/https://github.com/manimeskartehrani?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/manimeskartehrani?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -51,11 +50,11 @@
 <br>
 
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+<h2> My GitHub Stats  </h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manimeskartehrani)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://metrics.lecoq.io/https://github.com/manimeskartehrani?template=classic&config.timezone=America%2FToronto)
 
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
