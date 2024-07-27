@@ -59,6 +59,9 @@
 <h2> My GitHub Stats  </h2>
 [![Mani's GitHub stats]
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=@manimeskartehrani)&show_icons=true&theme=dark"
