@@ -29,8 +29,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="/assets/CSS3-original.svg" alt="CSS3" height="50" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="/assets/JavaScript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="/assets/TypeScript-original.svg" alt="TypeScript" height="50" /></a> 
-<a target="_blank"><img style="margin: 10px" src="/assets/svelte-original.svg" height="40" alt="svelte logo" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="/assets/Reactjs-original.svg" alt="React" height="50" /></a>  
+<a target="_blank"><img style="margin: 10px" src="/assets/svelte-original.svg" height="50" alt="svelte logo" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 30px" src="/assets/Reactjs-original.svg" alt="React" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="/assets/Nextjs-original.svg" alt="NextJS" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="/assets/tailwind-original.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="/assets/material-ui-original.svg" alt="Material UI" height="50" /></a>  
@@ -95,7 +95,7 @@ TSConfig     2 mins          █░░░░░░░░░░░░░░░░
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mani.tehrani.work@gmail.com" target="_blank">
-<img src="/assets/gmail-original.svg" height="28px" width="110px" />
+<img src="/assets/gmail-original.svg" height="28px" width="110px" alt="Gmail" />
 
 </a>
 
