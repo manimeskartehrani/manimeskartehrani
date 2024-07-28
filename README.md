@@ -97,7 +97,7 @@ TSConfig     2 mins          █░░░░░░░░░░░░░░░░
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mani.tehrani.work@gmail.com" target="_blank">
-<img src="/assets/gmail-original.svg"  />
+<img src="/assets/gmail-original.svg" height="25px" />
 
 </a>
 
