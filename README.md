@@ -25,7 +25,7 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="/assets/html5-original.svg" alt="HTML5" height="60" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img margin= "10px" src="/assets/html5-original.svg" alt="HTML5" height="60" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="/assets/CSS3-original.svg" alt="CSS3" height="50" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="/assets/JavaScript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="/assets/TypeScript-original.svg" alt="TypeScript" height="50" /></a> 
