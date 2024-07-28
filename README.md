@@ -53,8 +53,8 @@
 
 ### Database 
 <div align="center">  
-<a href="https://www.postgresql.org/" target="_blank"><img margin= "10px" src="/assets/postgresql-original.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img margin= "10px" src="/assets/mongodb-original.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin:100px" src="/assets/postgresql-original.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin:10px" src="/assets/mongodb-original.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
 </td></tr></table>  
