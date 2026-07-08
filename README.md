@@ -78,7 +78,11 @@ Hi! My name is Mani Meskartehrani. Thanks for taking the time to view my GitHub 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   19 hrs 42 mins        ████████████████████▓░░░░   83.06 %
+Markdown     2 hrs 59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+JavaScript   33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+HTML         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Text         7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
