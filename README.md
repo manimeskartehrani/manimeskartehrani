@@ -68,7 +68,10 @@ Hi! My name is Mani Meskartehrani. Thanks for taking the time to view my GitHub 
 <br/>
 
 ## Github Stats
-
+div>
+<img src="https://github-readme-stats.vercel.app/api?username=manimeskartehrani&show_icons=true&theme=transparent&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manimeskartehrani&layout=donut&show_icons=true&theme=transparent&count_private=true&hide_border=true" align="center" />
+</div>
 
 <br/>
 <!--START_SECTION:waka-->
