@@ -68,24 +68,11 @@ Hi! My name is Mani Meskartehrani. Thanks for taking the time to view my GitHub 
 <br/>
 
 ## Github Stats
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=manimeskartehrani&show_icons=true&theme=transparent&count_private=true&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manimeskartehrani&layout=donut&show_icons=true&theme=transparent&count_private=true&hide_border=true" align="center" />
-</div>
+
 
 <br/>
 
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   19 hrs 42 mins        ████████████████████▓░░░░   83.06 %
-Markdown     2 hrs 59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-JavaScript   33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-HTML         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Text         7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-```
-
-<!--END_SECTION:waka-->
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maniPro&layout=compact&theme=transparent&hide_border=true)
 
 <br/>
 
