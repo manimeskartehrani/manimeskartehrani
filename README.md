@@ -71,10 +71,12 @@ Hi! My name is Mani Meskartehrani. Thanks for taking the time to view my GitHub 
 
 
 <br/>
+<!--START_SECTION:waka-->
+txtNo activity tracked
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maniPro&layout=compact&theme=transparent&hide_border=true)
-
+<!--END_SECTION:waka-->
 <br/>
+
 
 ## Connect with me
 <div align="center">
