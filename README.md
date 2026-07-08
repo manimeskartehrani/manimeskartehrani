@@ -72,7 +72,7 @@ Hi! My name is Mani Meskartehrani. Thanks for taking the time to view my GitHub 
 
 <br/>
 <!--START_SECTION:waka-->
-txtNo activity tracked
+
 
 <!--END_SECTION:waka-->
 <br/>
