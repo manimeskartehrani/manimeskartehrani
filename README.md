@@ -17,17 +17,18 @@ Hi! My name is Mani Meskartehrani. Thanks for taking the time to view my GitHub 
 - ⚡ 7+ years across technical SEO, marketing analytics, and web development
 
 ## My Skill Set
-<table width="100%">
+<div align="center">
+<table>
 <thead>
 <tr>
-<th width="33%">Frontend</th>
-<th width="34%">Backend</th>
-<th width="33%">Database</th>
+<th width="280">Frontend</th>
+<th width="280">Backend</th>
+<th width="280">Database</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td valign="top" align="center">
+<td valign="top" align="center" width="280">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>
@@ -38,14 +39,14 @@ Hi! My name is Mani Meskartehrani. Thanks for taking the time to view my GitHub 
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="50" /></a>
 <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" height="50" /></a>
 </td>
-<td valign="top" align="center">
+<td valign="top" align="center" width="280">
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50" /></a>
 </td>
-<td valign="top" align="center">
+<td valign="top" align="center" width="280">
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" /></a>
 <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="50" /></a>
@@ -53,6 +54,7 @@ Hi! My name is Mani Meskartehrani. Thanks for taking the time to view my GitHub 
 </tr>
 </tbody>
 </table>
+</div>
 
 ### Tools & Platforms
 <div align="center">
@@ -76,11 +78,7 @@ Hi! My name is Mani Meskartehrani. Thanks for taking the time to view my GitHub 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   19 hrs 42 mins        ████████████████████▓░░░░   83.06 %
-Markdown     2 hrs 59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-JavaScript   33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-HTML         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Text         7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
