@@ -74,17 +74,16 @@ Hi! My name is Mani Meskartehrani. Thanks for taking the time to view my GitHub 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2026 - To: 25 August 2026
+From: 19 August 2026 - To: 26 August 2026
 
-Total Time: 4 hrs 2 mins
+Total Time: 2 hrs 41 mins
 
-Markdown     1 hr 57 mins          ██████████▓░░░░░░░░░░░░░░   42.12 %
-TypeScript   1 hr 52 mins          ██████████░░░░░░░░░░░░░░░   40.04 %
-Other        37 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-JSON         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-HTML         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-YAML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-PHP          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Markdown     1 hr 36 mins          ████████████▓░░░░░░░░░░░░   50.95 %
+TypeScript   55 mins               ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+Other        28 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+JSON         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+HTML         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+YAML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
